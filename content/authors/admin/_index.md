@@ -1,17 +1,14 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Sarthk Dash
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Sarthak
+last_name: Dash
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 💡
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,122 +17,127 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Centre for Nano Science and Engineering (CeNSE), Indian Institute of Science(IISc), Bangalore, Karnataka, India.
+    url: https://www.cense.iisc.ac.in/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:sarthakdash@iisc.ac.in'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/sarthak_dsh
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Sarthakdsh
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/sarthak-dsh/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?hl=en&user=U-FlM8sAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0005-6248-7779
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Raman Fiber Lasers
+  - High Power Fiber Lasers
+  - Nonlinear Optics
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  # - area: PhD
+  #   institution: Indian Institute of Science(IISc)
+  #   date_start: 2018
+  #   date_end: ''
+  #   summary: |
+  #     Thesis on _Architectures for linewidth reduction in cascaded Raman fiber lasers and applications_. Supervised by [Prof V.R. Supradeepa](https://www.cense.iisc.ac.in/supradeepa-v-r). 
+  #   button:
+  #     text: 'Read Thesis'
+  #     url: 'https://example.com'
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Physics
+    institution: National Institute of Technology (NIT) Rourkela, India
+    date_start: 2015
+    date_end: 2017
     summary: |
-      GPA: 3.4/4.0
+      - Department of Physics and Astronomy
+      - Msc Project on _Calculation of Master Stability Function of Coupled Chaotic Systems_
+      - GPA: 8.32/10.0
+
+      # Courses included:
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+  - area: BSc Physics Honours
+    institution: B.J.B AUTONOMOUS COLLEGE, BHUBANESWAR
+    date_start: 2012
+    date_end: 2015
+    summary: |
+      -	Honours in Physics with Mathematics as Pass subject and Chemistry as elective.
+      -	Passed with Distinction having Honours 84.25% and Overall 75.16%
+
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # Courses included:
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: PhD Student
+    company_name: Indian Institute of Science(IISc)
+    company_url: https://iisc.ac.in/
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2018-07-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Thesis on _Architectures for linewidth reduction in cascaded Raman fiber lasers and applications_. Supervised by [Prof V.R. Supradeepa](https://www.cense.iisc.ac.in/supradeepa-v-r).
+  # - position: Backend Software Engineer
+  #   company_name: X
+  #   company_url: ''
+  #   company_logo: ''
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     Responsibilities include:
+  #     - Migrated infrastructure to a new data center
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+      - name: Fiber Lasers
+        description: Designing and Building high power fiber lasers, Raman fiber lasers, Supercontinuum
+        # percent: 80
+        # icon: code-bracket
+      - name: Frequency conversion
+        description: Frequency conversion of fiber laser sources using crystals such as PPLN, LBO, BBO
+        # percent: 100
+        # icon: chart-bar
+      - name: Free space based Optical signal processing
+        description: Designed and built Pulse shaper for spectral shaping, grating based tunable filters, free space demultiplexers and beam combining systems
+        # percent: 40
+        # icon: circle-stack
+      - name: Numerical simulations and softwares
+        description: Simulations of fiber lasers, Raman fiber lasers, pulse propagation in fibers, second harmonic generation in crytals. Fluent in Python , Julia, Matlab
+        # percent: 40
+        # icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
+      # - name: Hiking
+      #   description: ''
+      #   percent: 60
+      #   icon: person-simple-walk
+      # - name: Cats
+      #   description: ''
+      #   percent: 100
+      #   icon: cat
       - name: Photography
         description: ''
         percent: 80
@@ -144,10 +146,10 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Hindi
+    percent: 100
+  - name: Odiya
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +185,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am pursuing PhD at the Indian Institute of Science and specializes in High-power Fiber lasers and Nonlinear Optics and have recently submitted my PhD thesis. My research focuses on Raman fiber lasers. It utilizes Raman Scattering phenomena in silica fibers, allowing the transfer of power from fiber lasers emitting at lower wavelengths, typically around 1060 nm, to higher wavelengths. Thus, Raman fiber lasers help in achieving laser power at any wavelengths in the range of 1 – 2 µm. Frequency doubling of these versatile Raman laser sources can generate light in visible wavelengths that have wide applications in imaging, microscopy, and material processing. I have designed and built high-power fiber lasers at 1060 nm and Raman fiber lasers to convert the power to higher wavelengths. I have worked on various architectures and techniques to increase the efficiency of visible conversion of Raman fibers lasers without compromising on their versatility. To achieve this, I have designed and built various free-space optical systems to control the properties of the Raman lasers. Finally, I have also built the setup for frequency doubling to visible and worked with various available nonlinear crystals. I have also worked with various Industry partners of our department translating our research work to impactful technologies.

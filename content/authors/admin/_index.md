@@ -21,7 +21,7 @@ role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Centre for Nano Science and Engineering (CeNSE), Indian Institute of Science(IISc), Bangalore, Karnataka, India.
+  - name: Centre for Nano Science and Engineering (CeNSE),\ Indian Institute of Science(IISc).
     url: https://www.cense.iisc.ac.in/
 
 # Social network links
@@ -185,4 +185,8 @@ awards:
 
 ## About Me
 
-I am pursuing PhD at the Indian Institute of Science and specializes in High-power Fiber lasers and Nonlinear Optics and have recently submitted my PhD thesis. My research focuses on Raman fiber lasers. It utilizes Raman Scattering phenomena in silica fibers, allowing the transfer of power from fiber lasers emitting at lower wavelengths, typically around 1060 nm, to higher wavelengths. Thus, Raman fiber lasers help in achieving laser power at any wavelengths in the range of 1 – 2 µm. Frequency doubling of these versatile Raman laser sources can generate light in visible wavelengths that have wide applications in imaging, microscopy, and material processing. I have designed and built high-power fiber lasers at 1060 nm and Raman fiber lasers to convert the power to higher wavelengths. I have worked on various architectures and techniques to increase the efficiency of visible conversion of Raman fibers lasers without compromising on their versatility. To achieve this, I have designed and built various free-space optical systems to control the properties of the Raman lasers. Finally, I have also built the setup for frequency doubling to visible and worked with various available nonlinear crystals. I have also worked with various Industry partners of our department translating our research work to impactful technologies.
+I am pursuing PhD at the Indian Institute of Science and specializes in High-power Fiber lasers and Nonlinear Optics and have recently submitted my PhD thesis.\
+My research interests are in Exploration and applications of optical non-linearities to generate power at any wavelength using  fiber lasers
+
+
+

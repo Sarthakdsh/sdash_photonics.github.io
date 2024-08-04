@@ -35,11 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My research focuses on Raman fiber lasers. It utilizes Raman Scattering phenomena in silica fibers, allowing the transfer of power from fiber lasers emitting at lower wavelengths, typically around 1060 nm, to higher wavelengths. Thus, Raman fiber lasers help in achieving laser power at any wavelengths in the range of 1 – 2 µm. Frequency doubling of these versatile Raman laser sources can generate light in visible wavelengths that have wide applications in imaging, microscopy, and material processing. 
         
-        Please reach out to collaborate 😃
+        I have designed and built high-power fiber lasers at 1060 nm and Raman fiber lasers to convert the power to higher wavelengths. I have worked on various architectures and techniques to increase the efficiency of visible conversion of Raman fibers lasers without compromising on their versatility. To achieve this, I have designed and built various free-space optical systems to control the properties of the Raman lasers. Finally, I have also built the setup for frequency doubling to visible and worked with various available nonlinear crystals. I have also worked with various Industry partners of our department translating our research work to impactful technologies.
     design:
       columns: '1'
   - block: collection

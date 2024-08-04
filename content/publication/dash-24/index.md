@@ -30,4 +30,13 @@ tags:
 links:
 - name: URL
   url: https://opg.optica.org/oe/abstract.cfm?URI=oe-32-12-20629
+
+featured: true
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Schematic of the setup with the dual feedback'
+  focal_point: ""
+  preview_only: false
 ---
